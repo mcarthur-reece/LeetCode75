@@ -19,7 +19,7 @@ public class MergeStringsAlternately {
 
         }
 
-        return newWord;
+        return newWord;  
     }
     
 }
